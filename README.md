@@ -73,11 +73,11 @@ If you have found a bug in the software, feel free to open an issue or submit a 
 
 ## Terms and Conditions
 
-Terms and conditions for use, reproduction, distribution and contribution are found in [LICENSE.txt][link_terms-and-conditions].
+Terms and conditions for use, reproduction, distribution and contribution are found in [License.txt][link_terms-and-conditions].
 
 [link_contributors]: https://github.com/BigBrainProject-Tools/A3D-wiki/main/CONTRIBUTING.md
-[link_userguide]: https://github.com/BigBrainProject-Tools/A3D-wiki/main/USERGUIDE.md
-[link_terms-and-conditions]: https://github.com/BigBrainProject-Tools/A3D-wiki/main/LICENSE.txt
+[link_userguide]: https://github.com/BigBrainProject-Tools/A3D-wiki/main/UserGuide.md
+[link_terms-and-conditions]: https://github.com/BigBrainProject-Tools/A3D-wiki/main/License.txt
 [link_bbp]: https://bigbrainproject.org
 [link_bbpf]: https://bigbrain-forum.loris.ca/
 [link_bbpf_a3d]: https://bigbrain-forum.loris.ca/
